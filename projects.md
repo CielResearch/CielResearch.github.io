@@ -1,8 +1,5 @@
 # Projects
 
-## Postgraduate Project (TBC)
-Characterisation, implementation, comparative benchmarking, and application of a community linkage detection algorithm for graphs with community linkage structure. If it is sufficiently tractable, I hope to someday apply this algorithm to computational neuroscience and structural bioinformatics.
-
 ## Research Software
 
 ### ReprMeta
