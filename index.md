@@ -5,18 +5,8 @@ title: CielResearch
 
 # Ciel Ivy-Lee Baumann
 
-Aspiring computational neuroscientist interested in understanding the fundamental principles 
-underlying nervous systems. I am particularly interested in how electromagnetic effects might 
-propagate from the molecular level up to the network and systems levels, and vice versa, and how 
-such interactions shape neurodevelopment and adult brain function. I am also interested in the 
-relationship between form and function, and how this relates to networks and electromagnetic 
-phenomena. 
-
-## Selected Research Interests 
-Neural systems and superparamagnetic biominerals; evolutionary and developmental neuroscience; 
-electromagnetism and biophysics; graph theory; computational biology and bioinformatics; structural 
-biology; research software engineering; reproducible science 
+Graduate bioinformatician and prospective Master of Applied Data Science student at the University of Canterbury for 2027. Experience with large-scale biological data integration and analysis, distributed computing, version control, environment management, and research software development. Interest in reproducible science, effective visual communication, neuroscience, and precision medicine.
 
 ## Education 
-Bachelor of Data Science in Bioinformatics, University of Canterbury (2026; awaiting conferment) 
+Bachelor of Data Science in Bioinformatics, University of Canterbury (2026; awaiting conferment) \
 Diploma in Science, University of Canterbury (2023)
